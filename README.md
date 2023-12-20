@@ -29,3 +29,7 @@ Question 2.)
 Question 3.)
 
 ![image](https://github.com/Samuel-2552/Securin/assets/104893913/e8aac67d-e69b-4264-a0c9-d779ff6ff5c8)
+
+# Part - B
+
+![image](https://github.com/Samuel-2552/Securin/assets/104893913/56ea72e0-343b-44b1-87f4-103d8cc7cfa2)
