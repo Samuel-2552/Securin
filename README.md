@@ -15,3 +15,10 @@ Question 2.)
 Question 3.)
 
 ![WhatsApp Image 2023-12-20 at 12 49 20 PM](https://github.com/Samuel-2552/Securin/assets/104893913/904fdf79-1980-4613-9130-5beac691cdcd)
+
+*Output Screenshots*
+
+Question 1.)
+
+![image](https://github.com/Samuel-2552/Securin/assets/104893913/afa7769c-70d1-490f-8d66-8fff1ef9389f)
+
