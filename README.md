@@ -22,3 +22,6 @@ Question 1.)
 
 ![image](https://github.com/Samuel-2552/Securin/assets/104893913/afa7769c-70d1-490f-8d66-8fff1ef9389f)
 
+Question 2.)
+
+![image](https://github.com/Samuel-2552/Securin/assets/104893913/6d846719-0ece-4d8d-b33f-f2366d9d3fce)
