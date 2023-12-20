@@ -25,3 +25,7 @@ Question 1.)
 Question 2.)
 
 ![image](https://github.com/Samuel-2552/Securin/assets/104893913/6d846719-0ece-4d8d-b33f-f2366d9d3fce)
+
+Question 3.)
+
+![image](https://github.com/Samuel-2552/Securin/assets/104893913/e8aac67d-e69b-4264-a0c9-d779ff6ff5c8)
